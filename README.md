@@ -1,4 +1,4 @@
-# Shift Cipher
+# Hill Cipher
 Program Enskripsi, Deksripsi, dan Mencari Key Hill Cipher dengan menggunakan C++
 
 ## Teknologi
